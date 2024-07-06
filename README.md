@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mvanla or Van
+- 👋 Hi, I’m Van
 - 👀 I’m interested in learning how to code and computational biology/bioinformatics
 - 🌱 I’m currently learning python
 - Follow me on this journey to learning how to code using Python as a complete noob. 
